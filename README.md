@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bienvenu Mwimule</h1>
-<h3 align="center">Backend Developer | Cybersecurity Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Backend Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/itbienvenu">
