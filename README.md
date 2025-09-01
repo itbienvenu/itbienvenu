@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bienvenu Mwimule</h1>
-<h3 align="center">Backend Developer | Open Source Contributor</h3>
+<h3 align="center">Full stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/itbienvenu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Passionate+about+code+and+security;Loves+Python%2C+PHP%2C+and+Django;Building+tools+that+solve+real+problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Passionate+about+code+and+security;Loves+Python%2C+PHP%2C;Building+tools+that+solve+real+problems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,16 +12,16 @@
 ## 👨‍💻 About Me
 
 - 🔐 I'm passionate about **backend development and cybersecurity**
-- 🧠 I love learning and building tools with **Python, PHP, Django, FastAPI, Laravel**, and more
+- 🧠 I love learning and building tools with **Python, PHP, FastAPI, Laravel**
 - 🚀 I enjoy creating scalable APIs and secure systems
-- 🎯 Currently exploring AI + Security, Web3, and ethical hacking
+- 🎯 Currently exploring AI + Security, and reverse engineering
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,django,fastapi,laravel,flask,mysql,sqlite,linux,git,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,php,fastapi,laravel,flask,mysql,sqlite,linux,git,vscode,js" />
 </p>
 
 ---
