@@ -1,0 +1,36 @@
+name: Update README with Private Repo Info
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.PRIVATE_TOKEN }}
+          GITHUB_USERNAME: itbienvenu
+        run: |
+          python update_readme.py
+          
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with private repos info" || echo "No changes"
+          git push
