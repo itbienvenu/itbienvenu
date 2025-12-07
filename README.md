@@ -24,14 +24,6 @@ Hi, I'm **itbienvenu**, a Backend Developer focused on building reliable, scalab
 - Background Jobs & Task Queues
 - Microservices Architecture
 
----
-
-## 📈 GitHub Activity (Stable Services)
-
-<p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itbienvenu&theme=flat&no-frame=true" /> -->
-  <img src="https://streak-stats.demolab.com?user=itbienvenu" />
-</p>
 
 ---
 
