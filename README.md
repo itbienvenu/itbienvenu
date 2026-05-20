@@ -1,35 +1,38 @@
-# 🚀 Welcome to My GitHub Profile
+# Welcome to My GitHub Profile
 
-Hi, I'm **itbienvenu**, a Backend Developer focused on building reliable, scalable, and secure systems. I specialize in API design, data modeling, and backend architecture.
+Hi, I'm **itbienvenu**, a `Cloud Application Developer` focused on building reliable, scalable, and secure systems..
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :-- | :-- |
-| Backend | FastAPI, Django, Node.js (Express) |
+| Backend | FastAPI, Django, Express.js |
 | Languages | Python, TypeScript, JavaScript, SQL |
 | Databases | PostgreSQL, MongoDB, Redis |
 | DevOps | Docker, Git, CI/CD, Linux |
+| Tools & Monitoring | Nginx, Netdata, Prometheus, Grafana |
 
 ---
 
-## 🔧 Core Backend Focus
+## Current Engineering Focus
 
-- REST API Design
-- Authentication & Authorization
+- Backend Performance Optimization
 - Database Optimization
+- Dockerized Applications
 - Caching Strategies (Redis)
 - Background Jobs & Task Queues
+- CI/CD Pipelines
+- Cloud Deployment Workflows
 - Microservices Architecture
 
 
 ---
 
-## 💬 Engineering Philosophy
+## Engineering Philosophy
 
-> “Design clean systems. Scale responsibly. Secure everything.”
+> “Build systems that are clean, reliable, and maintainable.”
 
 ---
 
